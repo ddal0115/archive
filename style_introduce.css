@@ -71,8 +71,8 @@ html, body {
 
 .introduce {
   text-align: center;
+  padding-top: 300px;
   margin: auto;
-  margin-top: 300px;
   color: #aea393;
   letter-spacing: 1.2px;
   font-size: 12px;
